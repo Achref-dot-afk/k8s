@@ -3,7 +3,7 @@ namespace: dev
 bases:
   - ../../base
 imageTags:
-  - name: limarktest/nodejs-docker
+  - name: achref2h/nodejs-docker
     newTag: v6
 patchesStrategicMerge:
   - deployment-patch.yaml
