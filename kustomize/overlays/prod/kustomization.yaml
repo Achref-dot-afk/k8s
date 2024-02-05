@@ -4,7 +4,7 @@ bases:
   - ../../base
 imageTags:
   - name: achref2h/nodejs-docker
-    newTag: v6
+    newTag: v8
 patchesStrategicMerge:
   - deployment-patch.yaml
   - service-patch.yaml
