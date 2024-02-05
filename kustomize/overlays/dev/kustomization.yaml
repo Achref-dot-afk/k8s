@@ -4,6 +4,6 @@ bases:
   - ../../base
 imageTags:
   - name: limarktest/nodejs-docker
-    newTag: v201
+    newTag: v5
 patchesStrategicMerge:
   - deployment-patch.yaml
